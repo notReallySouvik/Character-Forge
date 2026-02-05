@@ -20,6 +20,16 @@
   "style": "fantasy | anime | cartoon"
 }
 
+## Style Enforcement
+
+The `style` field controls:
+- Allowed asset sets
+- Prompt vocabulary
+- Template lock strength
+
+Example:
+"style": "anime"
+
 ## Constraints
 - Fixed proportions per body type
 - No dynamic resizing in MVP
