@@ -49,6 +49,23 @@ AI enhances it without redefining it.
 
 ---
 
+## Art Styles
+
+Character Forge is designed to support multiple visual styles through template locking and prompt control.
+
+### Initial Focus
+- **Anime-style characters** (primary MVP focus)
+
+### Planned
+- Cartoon 2D
+- Flat illustration
+- Pixel art
+- Semi-realistic illustration
+
+Photorealistic and 3D styles are explicitly out of scope.
+
+---
+
 ## Tech Stack
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS
 - **State**: Zustand
